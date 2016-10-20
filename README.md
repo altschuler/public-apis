@@ -225,6 +225,7 @@ A collective list of JSON APIs for use in web development.
 
 | API | Description | OAuth | Link |
 |---|---|---|---|
+| ReplyGif | High-quality reaction gifs | No, but `apiKey` query string | [Go!](http://replygif.net/about) | 
 | 500px |  Photography Community | Yes | [Go!](https://github.com/500px/api-documentation)
 | Flickr | Flickr Services | Yes | [Go!](https://www.flickr.com/services/api/) |
 | Giphy | Get all your gifs | No | [Go!](https://github.com/Giphy/GiphyAPI) |
